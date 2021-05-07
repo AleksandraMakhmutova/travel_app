@@ -1,0 +1,24 @@
+{
+  "name": "travel_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandraMakhmutova/travel_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksandraMakhmutova/travel_app/issues"
+  },
+  "homepage": "https://github.com/AleksandraMakhmutova/travel_app#readme",
+  "devDependencies": {
+    "@types/react": "^17.0.5",
+    "nodemon": "^2.0.7"
+  }
+}
